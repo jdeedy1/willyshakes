@@ -1,0 +1,5 @@
+from datasets import scenecoachai/shakespeare
+
+#Public dataset
+dataset = load_datasets("scenecoachai/shakespeare")
+print(dataset)
